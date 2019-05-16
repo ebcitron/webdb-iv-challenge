@@ -1,0 +1,19 @@
+{
+  "name": "webdb-iv-challenge",
+  "version": "1.0.0",
+  "description": "- database modeling.\r - migration scripts.\r - seeding.\r - knex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebcitron/webdb-iv-challenge.git"
+  },
+  "author": "Eli-Citron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebcitron/webdb-iv-challenge/issues"
+  },
+  "homepage": "https://github.com/ebcitron/webdb-iv-challenge#readme"
+}
